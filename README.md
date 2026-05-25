@@ -277,7 +277,7 @@ jupyter notebook "Python/Supply chain - Data Cleaning and EDA.ipynb"
 
 <div align="center">
 
-*End-to-end analytics pipeline · Real-world dataset · Portfolio project*
+*End-to-end analytics pipeline · Real-world dataset*
 
 ⭐ **Star this repo if you found it useful**
 
