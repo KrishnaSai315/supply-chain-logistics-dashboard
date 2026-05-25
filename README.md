@@ -244,7 +244,7 @@ Based on the analysis, three immediate actions would improve OTD from 40.9% towa
 
 <div align="center">
 
-*Built with real-world data | End-to-end analytics pipeline | Portfolio project*
+*Built with real-world data | End-to-end analytics pipeline*
 
 ⭐ Star this repo if you found it useful
 
