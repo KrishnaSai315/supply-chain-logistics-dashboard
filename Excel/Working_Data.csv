@@ -1,0 +1,54 @@
+Shipping Mode,Average of Late_delivery_risk
+First Class,95.32%
+Same Day,45.74%
+Second Class,76.63%
+Standard Class,38.07%
+Grand Total,54.83%
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Order Regions,Average of Late_delivery_risk
+Canada,48.80%
+Caribbean,53.08%
+Central Africa,57.96%
+Central America,54.75%
+Central Asia,55.33%
+East Africa,55.94%
+East of USA,55.66%
+Eastern Asia,54.33%
+Eastern Europe,55.66%
+North Africa,54.52%
+Northern Europe,54.04%
+Oceania,54.02%
+South America,54.31%
+South Asia,56.27%
+South of  USA ,55.77%
+Southeast Asia,55.53%
+Southern Africa,53.33%
+Southern Europe,54.38%
+US Center ,55.24%
+West Africa,52.84%
+West Asia,55.28%
+West of USA ,53.96%
+Western Europe,55.85%
+Grand Total,54.83%
+,
+,
+,
+,
+,
+,
+Year,Count of Order Id
+2015,62650
+2016,62550
+2017,53196
+2018,2123
+Grand Total,180519
