@@ -267,17 +267,6 @@ jupyter notebook "Python/Supply chain - Data Cleaning and EDA.ipynb"
 
 ---
 
-## 👤 Author
-
-**Loknadh Venkata Krishna Sai Kona**
-
-[![GitHub](https://img.shields.io/badge/GitHub-KrishnaSai315-black?style=flat&logo=github)](https://github.com/KrishnaSai315)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvkrishna3/)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:loknadh.kona@gmail.com)
-
----
 
 <div align="center">
 
